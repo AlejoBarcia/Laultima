@@ -1,0 +1,54 @@
+body {
+  background-color: #d41397; }
+  body header #subheader img {
+    width: 100%;
+    box-shadow: 5px 5px 5px #000;
+    margin: 0px 0px 10px 0px; }
+
+a {
+  text-decoration: none;
+  color: #fff; }
+
+a:hover {
+  text-decoration: none; }
+
+#wrap {
+  width: 960px;
+  margin: auto;
+  clear: both;
+  text-align: center; }
+
+#menu {
+  width: 50%;
+  margin: auto; }
+
+#menu ul {
+  font-size: 50px;
+  width: 970px;
+  margin: auto;
+  padding: 10px; }
+
+#menu ul a {
+  padding: 10px;
+  color: #000;
+  background-color: #cb60b3;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px #000; }
+
+#Quienesomos {
+  background-color: #a90329;
+  width: 970px;
+  margin: auto 10px;
+  padding: 0px 10px;
+  box-shadow: 5px 5px 5px #000; }
+
+#Quienesomos h2 {
+  font-size: 100px;
+  text-transform: capitalize;
+  padding: 0px; }
+
+#Quienesomos article p {
+  font-size: 50px;
+  padding: 0px; }
+
+/*# sourceMappingURL=main.css.map */
